@@ -1,0 +1,182 @@
+[
+    {
+        "model_no": 1,
+        "rank": 10,
+        "iterations": 10,
+        "lambda": 0.01,
+        "mse": 4.99817312224652,
+        "rmse": 2.2356594378944483,
+        "training_duration_sec": 28.902374,
+        "timestamp": "2025-05-28 20:37:38"
+    },
+    {
+        "model_no": 2,
+        "rank": 10,
+        "iterations": 10,
+        "lambda": 0.1,
+        "mse": 2.3754993648196474,
+        "rmse": 1.5412655075682604,
+        "training_duration_sec": 24.594411,
+        "timestamp": "2025-05-28 20:38:30"
+    },
+    {
+        "model_no": 3,
+        "rank": 10,
+        "iterations": 50,
+        "lambda": 0.01,
+        "mse": 3.1027604953687757,
+        "rmse": 1.761465439731582,
+        "training_duration_sec": 77.927497,
+        "timestamp": "2025-05-28 20:40:09"
+    },
+    {
+        "model_no": 4,
+        "rank": 10,
+        "iterations": 50,
+        "lambda": 0.1,
+        "mse": 2.2943864496437785,
+        "rmse": 1.514723225425615,
+        "training_duration_sec": 74.897171,
+        "timestamp": "2025-05-28 20:41:45"
+    },
+    {
+        "model_no": 5,
+        "rank": 10,
+        "iterations": 200,
+        "lambda": 0.01,
+        "mse": 2.794285473361772,
+        "rmse": 1.6716116395149239,
+        "training_duration_sec": 273.542115,
+        "timestamp": "2025-05-28 20:46:40"
+    },
+    {
+        "model_no": 6,
+        "rank": 10,
+        "iterations": 200,
+        "lambda": 0.1,
+        "mse": 2.303708250605902,
+        "rmse": 1.5177971704433706,
+        "training_duration_sec": 259.448414,
+        "timestamp": "2025-05-28 20:51:20"
+    },
+    {
+        "model_no": 7,
+        "rank": 50,
+        "iterations": 10,
+        "lambda": 0.01,
+        "mse": 3.648275667349142,
+        "rmse": 1.9100459856634715,
+        "training_duration_sec": 72.411992,
+        "timestamp": "2025-05-28 20:52:53"
+    },
+    {
+        "model_no": 8,
+        "rank": 50,
+        "iterations": 10,
+        "lambda": 0.1,
+        "mse": 2.337243189358557,
+        "rmse": 1.5288044967747045,
+        "training_duration_sec": 50.808603,
+        "timestamp": "2025-05-28 20:54:06"
+    },
+    {
+        "model_no": 9,
+        "rank": 50,
+        "iterations": 50,
+        "lambda": 0.01,
+        "mse": 2.7878106038140658,
+        "rmse": 1.669673801619366,
+        "training_duration_sec": 260.488919,
+        "timestamp": "2025-05-28 20:58:50"
+    },
+    {
+        "model_no": 10,
+        "rank": 50,
+        "iterations": 50,
+        "lambda": 0.1,
+        "mse": 2.209807503011622,
+        "rmse": 1.4865421295784462,
+        "training_duration_sec": 191.197721,
+        "timestamp": "2025-05-28 21:02:25"
+    },
+    {
+        "model_no": 11,
+        "rank": 50,
+        "iterations": 200,
+        "lambda": 0.01,
+        "mse": 2.4147617799993375,
+        "rmse": 1.5539503788729347,
+        "training_duration_sec": 885.246199,
+        "timestamp": "2025-05-28 21:17:36"
+    },
+    {
+        "model_no": 12,
+        "rank": 50,
+        "iterations": 200,
+        "lambda": 0.1,
+        "mse": 2.214733214828326,
+        "rmse": 1.4881979756834525,
+        "training_duration_sec": 727.366289,
+        "timestamp": "2025-05-28 21:30:08"
+    },
+    {
+        "model_no": 13,
+        "rank": 200,
+        "iterations": 10,
+        "lambda": 0.01,
+        "mse": 3.8359220208378826,
+        "rmse": 1.9585510003157647,
+        "training_duration_sec": 1324.861174,
+        "timestamp": "2025-05-28 21:52:39"
+    },
+    {
+        "model_no": 14,
+        "rank": 200,
+        "iterations": 10,
+        "lambda": 0.1,
+        "mse": 2.3277519605570864,
+        "rmse": 1.5256972047418473,
+        "training_duration_sec": 501.431408,
+        "timestamp": "2025-05-28 22:01:53"
+    },
+    {
+        "model_no": 15,
+        "rank": 200,
+        "iterations": 50,
+        "lambda": 0.01,
+        "mse": 2.839103030362174,
+        "rmse": 1.684963806840424,
+        "training_duration_sec": 4288.742056,
+        "timestamp": "2025-05-29 02:04:43"
+    },
+    {
+        "model_no": 16,
+        "rank": 200,
+        "iterations": 50,
+        "lambda": 0.1,
+        "mse": 2.1952746325194052,
+        "rmse": 1.4816459200900212,
+        "training_duration_sec": 2013.558835,
+        "timestamp": "2025-05-29 02:39:02"
+    },
+    {
+        "model_no": 17,
+        "rank": 200,
+        "iterations": 200,
+        "lambda": 0.01,
+        "mse": 2.373465720410664,
+        "rmse": 1.5406056342914833,
+        "training_duration_sec": 12461.073737,
+        "timestamp": "2025-05-29 06:07:38"
+    },
+    {
+        "model_no": 18,
+        "rank": 200,
+        "iterations": 200,
+        "lambda": 0.1,
+        "mse": 2.199402550519117,
+        "rmse": 1.4830382835648974,
+        "training_duration_sec": 8144.169123,
+        "timestamp": "2025-05-29 08:24:09"
+    }
+]

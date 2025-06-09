@@ -1,0 +1,10 @@
+{
+    "model_no": 16,
+    "rank": 200,
+    "iterations": 50,
+    "lambda": 0.1,
+    "mse": 2.1952746325194052,
+    "rmse": 1.4816459200900212,
+    "training_duration_sec": 2013.558835,
+    "timestamp": "2025-05-29 02:39:02"
+}
